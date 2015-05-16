@@ -1,0 +1,2 @@
+/Volumes/SANDISK/senior project/face-detection v1.1/openCVSamplefacedetection/build/intermediates/classes/debug
+/Volumes/SANDISK/senior project/face-detection v1.1/openCVSamplefacedetection/build/intermediates/pre-dexed/debug/classes-6aa76fc4bd9bfe8e9d7ec96cd269568c800ea78d.jar

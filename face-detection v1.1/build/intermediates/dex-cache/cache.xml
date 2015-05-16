@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/SANDISK/senior project/face-detection v1.1/openCVSamplefacedetection/build/intermediates/exploded-aar/face-detection v1.1/openCVLibrary2410/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6a6058646108f21afb3fcfa3f300199488cfe704">
+        <dex dex="/Volumes/SANDISK/senior project/face-detection v1.1/openCVSamplefacedetection/build/intermediates/pre-dexed/debug/classes-6aa76fc4bd9bfe8e9d7ec96cd269568c800ea78d.jar" />
+    </item>
+
+</items>
